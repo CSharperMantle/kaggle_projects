@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkUUID" value="345e8290-6864-4f42-a996-674f0a5c4571" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="torch_ml_env" project-jdk-type="Python SDK" />
+</project>
